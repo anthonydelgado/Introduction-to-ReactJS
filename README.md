@@ -2,7 +2,7 @@
 
 A Practical Introduction to ReactJS 
 
-#### A React App written from scratch 
+#### A React App written from scratch! Watch the video below and follow along! 
 
 [![A Practical Introduction to ReactJS ](http://img.youtube.com/vi/Zzh7veVglfU/0.jpg)](http://www.youtube.com/watch?v=Zzh7veVglfU "A Practical Introduction to ReactJS ")
 
